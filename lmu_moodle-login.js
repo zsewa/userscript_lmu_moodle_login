@@ -12,6 +12,7 @@
 // @match        https://moodle.lmu.de/
 // @match        https://moodle.lmu.de/user/policy.php
 
+// @run-at       document-end
 // @grant        none
 // ==/UserScript==
 
