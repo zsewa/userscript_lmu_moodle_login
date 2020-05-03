@@ -15,7 +15,7 @@ Occasionally Shibboleth should be able to restore the session without entering t
 Otherwise you saved two clicks.
 
 ## Security
-Note that the accual log in is provided by the LRZ at the URL `lmuidp.lrz.de`.
+Note that the actual log in is provided by the LRZ at the URL `lmuidp.lrz.de`.
 
 You can easyly audit this scrip as it it very brief. 
 
