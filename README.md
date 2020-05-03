@@ -22,5 +22,5 @@ You can easyly audit this scrip as it it very brief.
 The final redirect to the LRZ page is done by a `moodle.lmu.de` domain, this scripts works only on the moodle.lmu.de domain.
 
 The script is triggered on two explicit URLs:
-`https://moodle.lmu.de/`, the main page, and `https://moodle.lmu.de/user/policy.php` which you are redirected to by moodle if you are acessing a course while not authenticated.
+`https://moodle.lmu.de/`, the main page, and `https://moodle.lmu.de/user/policy.php` which you are redirected too by moodle if you are acessing a course while not authenticated.
 This reduces the scripts ability to interact with actual courses.
