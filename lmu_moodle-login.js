@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LMU Moodle Login
-// @version      1.0
-// @description  Keeps you logged in on moodle.lmu.de
+// @version      1.0.1
+// @description  Stay logged in on moodle.lmu.de
 // @author       Zeno Sewald <zsewa@outlook.de>
 // @namespace    https://github.com/zsewa
 // @homepageURL  https://github.com/zsewa/userscript_lmu_moodle_login
